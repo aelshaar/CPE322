@@ -2,9 +2,12 @@
 ## CPE 322
 ### Stevens Institute of Technology
 ---
+
 **Ahmed**
+
 ---
 *hello*
+
 ---
 1. 1st item
 2. 2nd item
@@ -15,5 +18,13 @@
 - third
 ---
 'code'
+
 ---
 ![Stevens](https://github.com/user-attachments/assets/1e02077f-0cbc-4191-98c2-dfd24fdb32f2)
+
+---
+> This is an example of how to use a blockquote
+
+---
+
+This is an example of how to use a link which was taught to me at [Stevens Insitute of Technology ](https://www.stevens.edu/")
