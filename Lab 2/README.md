@@ -1,6 +1,6 @@
-# CPE322 Project Screenshots
+# CPE LAB 1
 
-## Screenshot 1: Initial Setup
+## Screenshot 1: Hostname on Raspberry Pi
 ![Screenshot 1](Screen%20Shot%202024-12-16%20at%208.52.23%20PM.png)
 
 ## Screenshot 2: Final Results - Part 1
