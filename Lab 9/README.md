@@ -7,6 +7,6 @@
 ![Yang 2](yang2.png)
 
 ## Screenshot 3: 
-*I tried to download yang on my Raspberry Pi and it wouldnt let me. I tried a couple of times and this is a screenshot of the error message that I would be given.
+*I tried to download yang on my Raspberry Pi and it wouldnt let me. I tried a couple of times and this is a screenshot of the error message that I would be given.*
 ![Yang 3](yang3.png)
 
