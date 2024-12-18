@@ -8,7 +8,7 @@
 ![Screenshot 2](ahmed223-7.png)
 
 ## Screenshot 3: Stage 3
-![Screenshot 3](ahmed223-3.png)
+![Screenshot 3](ahmed223-1.png)
 
 ## Screenshot 4: Stage 4
 ![Screenshot 4]()
