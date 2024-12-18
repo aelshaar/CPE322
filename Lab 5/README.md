@@ -4,7 +4,7 @@
 ![Screenshot 1](Screen%20Shot%202024-12-17%20at%204.42.26%20PM.png)
 
 ## Screenshot 2: Stage 2
-![Screenshot 2](Screen%20Shot%202024-12-17%20at%204.42.42%20PM.png)
+![Screenshot 2](Screen%20Shot%202024-12-18%20at%205.36.35%20AM.png)
 
 ## Screenshot 3: Stage 3
 ![Screenshot 3](Screen%20Shot%202024-12-17%20at%205.31.50%20PM.png)
